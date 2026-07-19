@@ -1,0 +1,2 @@
+port: 8080
+identity_key: "mynginx-identity-key-002"

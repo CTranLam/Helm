@@ -1,0 +1,3 @@
+image: nginxdemos/hello:latest
+port: 80
+identity_key: "mynginx-identity-key"

@@ -1,0 +1,6 @@
+apiVersion: v2
+name: mynginx
+description: A Helm chart to deploy a demo of Nginx hello
+type: application
+version: 0.1.0 # version of the chart
+appVersion: "1.16.0" # version of the application
