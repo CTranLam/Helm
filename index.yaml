@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  mynginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-07-19T22:12:36.988092228+07:00"
+    description: A Helm chart to deploy a demo of Nginx hello
+    digest: 2509543b4ae1abe7dee5db5f0da41c894bd87cb2c5121ec793e731ba7f36c170
+    name: mynginx
+    type: application
+    urls:
+    - publish/mynginx-0.1.0.tgz
+    version: 0.1.0
+  mynginx2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-07-19T22:12:36.988181601+07:00"
+    description: A Helm chart to deploy a demo of Nginx2 hello
+    digest: c9fad3facdfa5235daa7fb0c02ca6d9d8315b651c5a9c3a9ad9902ea8e0a8407
+    name: mynginx2
+    type: application
+    urls:
+    - publish/mynginx2-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-07-19T22:12:36.987869183+07:00"
